@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SocialMedia": {
+      "commandName": "Project",
+      "commandLineArgs": "hei på deg"
+    }
+  }
+}
